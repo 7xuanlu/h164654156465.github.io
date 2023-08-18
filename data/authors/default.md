@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Qi-Xuan Lu
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Software Engineer
+company: Carnegie Mellon University
+email: h164654156465@outlook.com
+# twitter: https://twitter.com/Twitter
+linkedin: https://www.linkedin.com/in/lu-qixuan/
+github: https://github.com/h164654156465
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am essentially an essentialist. I value code quality and design patterns, pursuing my career as a clean coder. Being a master student at Carnegie Mellon University, I specialize in full-stack and backend development. My past work experience have solidified my programming and teamwork skills. As a new graduate in 2022, I'm ready to contribute my passion to the next big thing!
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Top skills: Java, Spring Boot, JavaScript, TypeScript, Nodejs, React, Python, Django...

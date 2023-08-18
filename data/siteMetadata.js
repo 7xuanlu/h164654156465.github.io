@@ -1,8 +1,8 @@
 const siteMetadata = {
   title: 'Qi-Xuan Lu | Essentialist',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  author: 'Qi-Xuan Lu',
+  headerTitle: "Qi-Xuan Lu' Place",
+  description: 'Recent blog posts related to thoughs, software engineering...',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'h164654156465@outlook.com',
+  github: 'https://github.com/h164654156465',
+  // twitter: 'https://twitter.com/Twitter',
+  // facebook: 'https://facebook.com',
+  // youtube: 'https://youtube.com',
+  linkedin: 'https://www.linkedin.com/in/lu-qixuan/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
